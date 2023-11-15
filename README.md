@@ -1,6 +1,9 @@
 # template-repo
 
 
+
+![Alt text](Shooting.gif) / ![](Shooting.gif)
+
 Cutting-edge game controller designed to provide players with an immersive and intuitive aiming experience like never before. This controller utilizes advanced mouse position tracking for precision aiming, ensuring that players can seamlessly navigate the game environment with unparalleled accuracy.
 
 Key Features:

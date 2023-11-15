@@ -1,5 +1,3 @@
-# template-repo
-
 
 
 ![Alt text](Shooting.gif) / ![](Shooting.gif)
